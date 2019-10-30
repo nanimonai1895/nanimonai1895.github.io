@@ -1,0 +1,16 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      开始学法文了（一）				# 标题 
+subtitle:   嘿嘿嘿嘿嘿嘿 #副标题
+date:       2019-10-29 				# 时间
+author:     captain 						# 作者
+header-img:  	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 法语
+---
+
+## Hey
+>这是我的第一篇博客。
+
+进入你的博客主页，新的文章将会出现在你的主页上.
