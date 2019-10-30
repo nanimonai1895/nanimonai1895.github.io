@@ -12,7 +12,7 @@ github_repo: "https://github.com/nanimonai1895/nanimonai1895.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "18951228"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
